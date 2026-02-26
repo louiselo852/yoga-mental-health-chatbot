@@ -136,3 +136,8 @@ Bot: It's completely normal to feel this way. You're not alone — do you want t
 
 9.License:
 This is a demo project for educational purposes. Not intended to replace real medical advice or mental health therapy.
+
+## 🙏 Acknowledgments
+
+**Original project** by **[Sapan-Byndla](https://github.com/Sapan-Byndla)**  
+[Source](https://github.com/Sapan-Byndla/Mental-Health-LLM-Chatbot)  
